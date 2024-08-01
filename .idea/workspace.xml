@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e752a3ec-57cd-441a-a0be-7fba9cc96032" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/code(vcm).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPCA/ICA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPCA/KPCA_last_main_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPCA/KPCA_last_main_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPCA/KPCA_main_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPCA/ica_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPCA/iris.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPCA/iris_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPCA/iris_main.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPCA/iris_main_6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPCA/iris_main_fina.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPCA/pca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPCA/pca_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPCA/pca_main_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPCA/svd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPCA/svd_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KPCA/主成分分析法确定权重.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Latitude and longitude code/Geographic location code_cargo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Latitude and longitude code/Geographic location code_vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Latitude and longitude code/cargo_经纬度编码.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Latitude and longitude code/vehicle_经纬度编码.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Latitude and longitude code/省市边界线.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/alexnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/bayesian_resetnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/bnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/changes_data_resnet_sintime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/final_main_bayesianAlexnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/final_main_bayesianResnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/first_main_bayesianAlexnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/kpca/LOSS3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/kpca/LOSS4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/kpca/kpca_BResNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/kpca/kpca_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/kpca/loss1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/kpca/loss2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/kpca/loss_final.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/loss_1000_alexnet_update_new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/loss_final.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/loss_resnet_final.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/multime_data/kpca_vcm.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/multime_data/vcm_main_final_change_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/pca/loss1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/pca/loss2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/pca/loss_final.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/pca/pca_BResNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/pca/pca_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/resnet_change_data_main_final_multinme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/sin_time_data/vcm_change_resnet_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/suiji/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/suiji/loss1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/suiji/loss2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/suiji/loss_final.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/suiji/suiji_BResNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/traditional_resnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/多时间片 消融实验.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/消融实验kpcapca随机.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RBCNN/消融实验单时间片.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/cargoDataSet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/d-cargo1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/d-cargo2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/d-vehicle1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/d-vehicle2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/deng.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/idbn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/KPCA_weight .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/deng-cargo2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/deng-vehicle2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn-cargo2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn-vehicle2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/c10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/c11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/c12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/c13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/c7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/c8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/c9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/cargo6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/cargoDataSet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/cargoDataSetFive.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/cargoDataSetFour.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/cargoDataSetThree.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/cargoDataSetTwo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/v10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/v11" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/v12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/v13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/v7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/v8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/v9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/vehicle6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/vehicleDataSet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/vehicleDataSetFive.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/vehicleDataSetFour.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/vehicleDataSetThree.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/idbn/vehicleDataSetTwo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/k-cargo1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/k-cargo2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/k-vehicle1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/k-vehicle2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/k_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca-idbn-data/kpca_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/kpca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparison/vehicleDataSet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/cargo_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/cargo_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/cargo_dataset_final.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/deng/C8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/deng/V8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/deng/c5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/deng/c6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/deng/c_deng1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/deng/c_deng2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/deng/c_deng4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/deng/c_idbn1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/deng/cd7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/deng/v5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/deng/v6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/deng/v_deng1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/deng/v_deng2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/deng/v_deng4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/deng/v_idbn1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/deng/vd7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/idbn/c5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/idbn/c6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/idbn/c_deng1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/idbn/c_idbn.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/idbn/c_idbn1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/idbn/c_idbn3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/idbn/c_idbn4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/idbn/v5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/idbn/v6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/idbn/v_deng1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/idbn/v_idbn.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/idbn/v_idbn1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/idbn/v_idbn3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/idbn/v_idbn4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/suiji/c2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/suiji/c3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/suiji/c_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/suiji/v2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/suiji/v3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/suiji/v_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/vehicle_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/vehicle_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/kpca-kpca-data/main_vehicle_cargo_dataset/vehicle_dataset_final.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/sin_hot_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/vcm.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/省市边界线.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deng.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idbn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/events.out.tfevents.1689066406.DESKTOP-DAQO5SP.6524.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/events.out.tfevents.1689067832.DESKTOP-DAQO5SP.20180.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/events.out.tfevents.1689067921.DESKTOP-DAQO5SP.20252.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open data/VCMD01/cargo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open data/VCMD01/vehicle.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open data/VCMD02/cago.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/open data/VCMD02/vehicle.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/alenent/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/alenent/loss_1000_alexnet_update_new.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/img_compar_pca_random.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/1000_数据及图/1000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/1000_数据及图/image_1000_final_change_data.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/1000_数据及图/image_1000_final_change_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/1000_数据及图/img_1000_final_main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/100_数据及图/100_final.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/100_数据及图/100_final_main.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/100_数据及图/image_100_final_change_data.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/100_数据及图/image_100_final_change_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/100_数据及图/img_100_final.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/100_数据及图/img_100_final_main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/loss_resnet_final.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/tranditional_resnet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/单时间片下的/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/单时间片下的/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/单时间片下的/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/单时间片下的/newdanshijian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/单时间片下的/单时间片.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/多时间片/duoshijianpian.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picture/resnet/多时间片/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vcm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vcm_change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vcm_change_distance_kpca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vcm_change_distance_random_weight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vcm_change_distance_svd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vcm_ica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vcm_main_mulTime_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vcm_main_mulTime_pca_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vcm_main_mulTime_random_weight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vcm_pca.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vcm_single_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/单时间片数据分析.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多时间片数据分析.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据处理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/消融实验图.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NaZoJ0JApUk5n8CXngEa50qtZx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "last_opened_file_path": "D:/caie_data/code(vcm)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\论文\车货匹配代码\code(vcm)\KPCA_FINAL_BRN\KPCA_BRN\new_data\kbr" />
+      <recent name="C:\Users\DELL\Desktop\论文\车货匹配代码\code(vcm)\KPCA_FINAL_BRN\weight\new_data\kbr" />
+      <recent name="C:\Users\DELL\Desktop\论文\车货匹配代码\code(vcm)" />
+      <recent name="C:\Users\DELL\Desktop\论文\车货匹配代码\code(vcm)\KPCA_FINAL_BRN\weight\new_data" />
+      <recent name="C:\Users\DELL\Desktop\论文\车货匹配代码\code(vcm)\new_dataset\kpca_final_data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\论文\车货匹配代码\以往实验\code(IDBN)(1)\code(IDBN)" />
+      <recent name="C:\Users\DELL\Desktop\论文\车货匹配-深度学习\code(vcm)" />
+      <recent name="C:\Users\DELL\Desktop\论文\车货匹配-深度学习\code(vcm)\dataset\kpca-kpca-data\main_vehicle_cargo_dataset\idbn" />
+      <recent name="C:\Users\DELL\Desktop\论文\车货匹配-深度学习\code(vcm)\dataset\kpca-kpca-data\main_vehicle_cargo_dataset\deng" />
+      <recent name="C:\Users\DELL\Desktop\论文\车货匹配-深度学习\code(vcm)\dataset\kpca-kpca-data\main_vehicle_cargo_dataset" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.kbr_pbr_sbr">
+    <configuration name="kbr_pbr_sbr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code(vcm)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RBCNN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RBCNN/kbr_pbr_sbr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code(vcm)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RBCNN/kbr_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RBCNN/kbr_1/tt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vcm_main_mulTime_final_deng" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code(vcm)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KPCA_FINAL_BRN/IDBN_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KPCA_FINAL_BRN/IDBN_data/vcm_main_mulTime_final_deng.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vcm_main_mulTime_final_idbn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code(vcm)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KPCA_FINAL_BRN/IDBN_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KPCA_FINAL_BRN/IDBN_data/vcm_main_mulTime_final_idbn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vcm_main_mulTime_final_kpca" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code(vcm)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KPCA_FINAL_BRN/IDBN_data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KPCA_FINAL_BRN/IDBN_data/vcm_main_mulTime_final_kpca.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.kbr_pbr_sbr" />
+        <item itemvalue="Python.tt" />
+        <item itemvalue="Python.vcm_main_mulTime_final_deng" />
+        <item itemvalue="Python.vcm_main_mulTime_final_idbn" />
+        <item itemvalue="Python.vcm_main_mulTime_final_kpca" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e752a3ec-57cd-441a-a0be-7fba9cc96032" name="变更" comment="" />
+      <created>1679904327010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679904327010</updated>
+      <workItem from="1679904328645" duration="6646000" />
+      <workItem from="1680051738274" duration="37671000" />
+      <workItem from="1680227559377" duration="12749000" />
+      <workItem from="1680485272963" duration="3586000" />
+      <workItem from="1680507190592" duration="5871000" />
+      <workItem from="1680513171270" duration="97000" />
+      <workItem from="1680513285136" duration="100000" />
+      <workItem from="1680513449631" duration="3433000" />
+      <workItem from="1680593028137" duration="1611000" />
+      <workItem from="1680661705416" duration="6873000" />
+      <workItem from="1680772826473" duration="39456000" />
+      <workItem from="1681259132017" duration="33939000" />
+      <workItem from="1681377049245" duration="6663000" />
+      <workItem from="1681390403938" duration="2218000" />
+      <workItem from="1681434834416" duration="20835000" />
+      <workItem from="1681524471042" duration="3123000" />
+      <workItem from="1681693380527" duration="5332000" />
+      <workItem from="1681700663129" duration="5301000" />
+      <workItem from="1681718139596" duration="15350000" />
+      <workItem from="1681800909088" duration="35144000" />
+      <workItem from="1681952219606" duration="25578000" />
+      <workItem from="1682126088747" duration="4706000" />
+      <workItem from="1682298955392" duration="22505000" />
+      <workItem from="1682406721839" duration="9155000" />
+      <workItem from="1682469355407" duration="9725000" />
+      <workItem from="1682493798022" duration="9184000" />
+      <workItem from="1682598893312" duration="5060000" />
+      <workItem from="1682644772130" duration="16046000" />
+      <workItem from="1683161414611" duration="23105000" />
+      <workItem from="1683356885813" duration="20092000" />
+      <workItem from="1683530946274" duration="10458000" />
+      <workItem from="1683812555954" duration="1628000" />
+      <workItem from="1683852695162" duration="5540000" />
+      <workItem from="1683876001670" duration="9660000" />
+      <workItem from="1683941008466" duration="6478000" />
+      <workItem from="1684310232664" duration="8532000" />
+      <workItem from="1684374849236" duration="6829000" />
+      <workItem from="1684401835199" duration="11550000" />
+      <workItem from="1684480854774" duration="1715000" />
+      <workItem from="1684482611572" duration="5734000" />
+      <workItem from="1684740349841" duration="3392000" />
+      <workItem from="1684899084948" duration="3174000" />
+      <workItem from="1685063796012" duration="3988000" />
+      <workItem from="1685323878945" duration="33386000" />
+      <workItem from="1685494925766" duration="8191000" />
+      <workItem from="1685516970357" duration="7337000" />
+      <workItem from="1685531859907" duration="3671000" />
+      <workItem from="1685535966727" duration="4239000" />
+      <workItem from="1685581195563" duration="2862000" />
+      <workItem from="1685618066152" duration="2706000" />
+      <workItem from="1685670791982" duration="3259000" />
+      <workItem from="1685926843223" duration="8668000" />
+      <workItem from="1686106088119" duration="4147000" />
+      <workItem from="1686214922399" duration="936000" />
+      <workItem from="1686703527487" duration="640000" />
+      <workItem from="1686876572287" duration="6230000" />
+      <workItem from="1686900034118" duration="2745000" />
+      <workItem from="1687056099164" duration="2146000" />
+      <workItem from="1687849868383" duration="15692000" />
+      <workItem from="1688783908201" duration="1419000" />
+      <workItem from="1689061303257" duration="4864000" />
+      <workItem from="1689067771179" duration="1499000" />
+      <workItem from="1689146946438" duration="7779000" />
+      <workItem from="1689214354761" duration="2813000" />
+      <workItem from="1689249208944" duration="4287000" />
+      <workItem from="1689299124084" duration="20000" />
+      <workItem from="1694741665133" duration="10169000" />
+      <workItem from="1694999016612" duration="19022000" />
+      <workItem from="1695039470285" duration="7304000" />
+      <workItem from="1695085645476" duration="15329000" />
+      <workItem from="1695112994449" duration="1732000" />
+      <workItem from="1695114834109" duration="9332000" />
+      <workItem from="1695130991677" duration="750000" />
+      <workItem from="1695171049389" duration="19792000" />
+      <workItem from="1695259338157" duration="12657000" />
+      <workItem from="1695285454263" duration="14987000" />
+      <workItem from="1695344721468" duration="23838000" />
+      <workItem from="1695430411040" duration="1166000" />
+      <workItem from="1695606132470" duration="1197000" />
+      <workItem from="1695627664420" duration="7074000" />
+      <workItem from="1695692183007" duration="8969000" />
+      <workItem from="1695730265859" duration="3713000" />
+      <workItem from="1695777877709" duration="13143000" />
+      <workItem from="1696038175594" duration="2579000" />
+      <workItem from="1696489062608" duration="1521000" />
+      <workItem from="1696584253015" duration="8698000" />
+      <workItem from="1696661310742" duration="1830000" />
+      <workItem from="1696925320150" duration="4002000" />
+      <workItem from="1697014501071" duration="1118000" />
+      <workItem from="1697076162432" duration="2318000" />
+      <workItem from="1697166282892" duration="2258000" />
+      <workItem from="1697182384622" duration="4605000" />
+      <workItem from="1697253453296" duration="369000" />
+      <workItem from="1697275049050" duration="23000" />
+      <workItem from="1697677027189" duration="39000" />
+      <workItem from="1697677176223" duration="689000" />
+      <workItem from="1697769442384" duration="2974000" />
+      <workItem from="1697790382747" duration="7691000" />
+      <workItem from="1697854861605" duration="3339000" />
+      <workItem from="1698221275429" duration="2767000" />
+      <workItem from="1698322800842" duration="3200000" />
+      <workItem from="1698558949061" duration="607000" />
+      <workItem from="1698718816197" duration="17042000" />
+      <workItem from="1698799723566" duration="16511000" />
+      <workItem from="1698842068636" duration="683000" />
+      <workItem from="1698846679123" duration="983000" />
+      <workItem from="1698930010225" duration="4906000" />
+      <workItem from="1698974786966" duration="12533000" />
+      <workItem from="1699278716708" duration="290000" />
+      <workItem from="1700098225531" duration="1172000" />
+      <workItem from="1700706527456" duration="2208000" />
+      <workItem from="1700794617252" duration="6213000" />
+      <workItem from="1701433247927" duration="2138000" />
+      <workItem from="1701856671159" duration="6455000" />
+      <workItem from="1701918931312" duration="1043000" />
+      <workItem from="1701938944912" duration="1394000" />
+      <workItem from="1702432040303" duration="220000" />
+      <workItem from="1702543691236" duration="992000" />
+      <workItem from="1702556759286" duration="985000" />
+      <workItem from="1703218587629" duration="666000" />
+      <workItem from="1703292789310" duration="1512000" />
+      <workItem from="1703401115546" duration="1302000" />
+      <workItem from="1703402498085" duration="1298000" />
+      <workItem from="1703553853608" duration="4061000" />
+      <workItem from="1703754030494" duration="2285000" />
+      <workItem from="1705057217393" duration="47000" />
+      <workItem from="1705132927383" duration="675000" />
+      <workItem from="1705135893235" duration="572000" />
+      <workItem from="1705141976366" duration="10521000" />
+      <workItem from="1705293303731" duration="354000" />
+      <workItem from="1705294248091" duration="5832000" />
+      <workItem from="1705667530858" duration="1132000" />
+      <workItem from="1705895585007" duration="542000" />
+      <workItem from="1708603882224" duration="14000" />
+      <workItem from="1708609337540" duration="4892000" />
+      <workItem from="1709640721946" duration="186000" />
+      <workItem from="1709642257778" duration="52000" />
+      <workItem from="1709798897370" duration="56000" />
+      <workItem from="1709799008384" duration="879000" />
+      <workItem from="1709887075855" duration="968000" />
+      <workItem from="1710297115615" duration="2094000" />
+      <workItem from="1710316792255" duration="1469000" />
+      <workItem from="1710328857482" duration="2328000" />
+      <workItem from="1710380104250" duration="9097000" />
+      <workItem from="1710466730420" duration="3694000" />
+      <workItem from="1710664988121" duration="833000" />
+      <workItem from="1710721740581" duration="8468000" />
+      <workItem from="1710833820448" duration="1795000" />
+      <workItem from="1710851778254" duration="641000" />
+      <workItem from="1710919928159" duration="4447000" />
+      <workItem from="1710986126932" duration="6620000" />
+      <workItem from="1711160386843" duration="3078000" />
+      <workItem from="1711417605201" duration="130000" />
+      <workItem from="1711676332768" duration="2512000" />
+      <workItem from="1711707937227" duration="1187000" />
+      <workItem from="1712718118326" duration="545000" />
+      <workItem from="1712890167207" duration="975000" />
+      <workItem from="1712907847492" duration="239000" />
+      <workItem from="1713146306661" duration="5428000" />
+      <workItem from="1713252189342" duration="2115000" />
+      <workItem from="1713333957199" duration="1453000" />
+      <workItem from="1713404014340" duration="1217000" />
+      <workItem from="1713491693802" duration="3635000" />
+      <workItem from="1713593428753" duration="992000" />
+      <workItem from="1713749775721" duration="597000" />
+      <workItem from="1713838369150" duration="4147000" />
+      <workItem from="1713924706613" duration="3000" />
+      <workItem from="1713924934802" duration="4905000" />
+      <workItem from="1713943876401" duration="856000" />
+      <workItem from="1714033866244" duration="2232000" />
+      <workItem from="1714047273419" duration="1903000" />
+      <workItem from="1714095855672" duration="1512000" />
+      <workItem from="1714120596891" duration="4891000" />
+      <workItem from="1714205014299" duration="1711000" />
+      <workItem from="1714959678728" duration="2380000" />
+      <workItem from="1715133606550" duration="1805000" />
+      <workItem from="1715169184446" duration="1195000" />
+      <workItem from="1715175377990" duration="137000" />
+      <workItem from="1715221058215" duration="15930000" />
+      <workItem from="1715326434279" duration="13491000" />
+      <workItem from="1715589358001" duration="5372000" />
+      <workItem from="1715650710173" duration="15471000" />
+      <workItem from="1715821287134" duration="778000" />
+      <workItem from="1715823720054" duration="65000" />
+      <workItem from="1716813132889" duration="298000" />
+      <workItem from="1716948899723" duration="726000" />
+      <workItem from="1716952611453" duration="326000" />
+      <workItem from="1717033745080" duration="687000" />
+      <workItem from="1717144359768" duration="3446000" />
+      <workItem from="1717225423398" duration="651000" />
+      <workItem from="1717488050622" duration="703000" />
+      <workItem from="1717506155034" duration="149000" />
+      <workItem from="1717551466047" duration="1230000" />
+      <workItem from="1717675095137" duration="1218000" />
+      <workItem from="1717745093757" duration="5873000" />
+      <workItem from="1718098855082" duration="1258000" />
+      <workItem from="1718176861334" duration="509000" />
+      <workItem from="1718177385861" duration="1836000" />
+      <workItem from="1718179304876" duration="5088000" />
+      <workItem from="1718276587100" duration="2000" />
+      <workItem from="1718674841115" duration="59000" />
+      <workItem from="1718698786891" duration="6694000" />
+      <workItem from="1718762978024" duration="9837000" />
+      <workItem from="1718956299240" duration="16878000" />
+      <workItem from="1719040529680" duration="12582000" />
+      <workItem from="1719122220896" duration="2919000" />
+      <workItem from="1719195308371" duration="18082000" />
+      <workItem from="1719278232782" duration="18208000" />
+      <workItem from="1719298853167" duration="1668000" />
+      <workItem from="1719408120191" duration="2020000" />
+      <workItem from="1719833831271" duration="1639000" />
+      <workItem from="1719836117360" duration="7736000" />
+      <workItem from="1719882994021" duration="4344000" />
+      <workItem from="1720084934804" duration="604000" />
+      <workItem from="1720354594753" duration="2592000" />
+      <workItem from="1720421756759" duration="8004000" />
+      <workItem from="1720529754756" duration="33000" />
+      <workItem from="1720616315582" duration="687000" />
+      <workItem from="1720662317920" duration="2017000" />
+      <workItem from="1720750863486" duration="2273000" />
+      <workItem from="1720769086078" duration="2953000" />
+      <workItem from="1720773298414" duration="1577000" />
+      <workItem from="1721043409344" duration="2233000" />
+      <workItem from="1721093761917" duration="5337000" />
+      <workItem from="1721180053615" duration="2945000" />
+      <workItem from="1721266631006" duration="3448000" />
+      <workItem from="1721359861002" duration="1239000" />
+      <workItem from="1721448233000" duration="782000" />
+      <workItem from="1721613894749" duration="4851000" />
+      <workItem from="1721633493680" duration="1779000" />
+      <workItem from="1721637032557" duration="25000" />
+      <workItem from="1721643479284" duration="11702000" />
+      <workItem from="1721699927587" duration="4623000" />
+      <workItem from="1721705210251" duration="600000" />
+      <workItem from="1721963045309" duration="2688000" />
+      <workItem from="1722526608746" duration="290000" />
+      <workItem from="1722527029652" duration="618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../以往实验/code(IDBN)(1)/code(IDBN)/rePaper.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code_vcm_$Geographic_location_code_cargo.coverage" NAME="Geographic location code_cargo 覆盖结果" MODIFIED="1685432524121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Latitude and longitude code" />
+    <SUITE FILE_PATH="coverage/code_vcm_$deng__1_.coverage" NAME="deng (1) 覆盖结果" MODIFIED="1719283207680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/IDBN_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_DW_.coverage" NAME="vcm_main_mulTime_DW_单时间片 覆盖结果" MODIFIED="1719290085389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../以往实验/code(IDBN)(1)/code(IDBN)" />
+    <SUITE FILE_PATH="coverage/code_vcm_$cnn_pooling.coverage" NAME="cnn_pooling 覆盖结果" MODIFIED="1680873901954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnn" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_change_distance.coverage" NAME="vcm_change_distance 覆盖结果" MODIFIED="1684312838184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$ICA.coverage" NAME="ICA 覆盖结果" MODIFIED="1698930261764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pcaone.coverage" NAME="pcaone 覆盖结果" MODIFIED="1684373780306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$BCNN.coverage" NAME="BCNN 覆盖结果" MODIFIED="1679919597960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/研究生课程/论文/实验室/车货匹配/yang" />
+    <SUITE FILE_PATH="coverage/code_vcm_$ahp_2.coverage" NAME="ahp_2 覆盖结果" MODIFIED="1718024512567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$hotdata.coverage" NAME="hotdata 覆盖结果" MODIFIED="1689064826828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_ica.coverage" NAME="vcm_ica 覆盖结果" MODIFIED="1698828584104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$BayesianResnet.coverage" NAME="BayesianResnet 覆盖结果" MODIFIED="1683256264224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$read_data.coverage" NAME="read_data 覆盖结果" MODIFIED="1681435937395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$brn_rand.coverage" NAME="brn_rand 覆盖结果" MODIFIED="1721704152286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/weight" />
+    <SUITE FILE_PATH="coverage/code_vcm_$ica_2.coverage" NAME="ica_2 覆盖结果" MODIFIED="1698842402435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$KPCA_final.coverage" NAME="KPCA_final 覆盖结果" MODIFIED="1685448787212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$KPCA_last_main_2.coverage" NAME="KPCA_last_main_2 覆盖结果" MODIFIED="1719235609456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/KPCA_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$KBR_BResNet__1_.coverage" NAME="KBR_BResNet (1) 覆盖结果" MODIFIED="1719122387793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN/kbr_1" />
+    <SUITE FILE_PATH="coverage/code_vcm_$alexnet.coverage" NAME="alexnet 覆盖结果" MODIFIED="1683290503778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_change.coverage" NAME="vcm_change 覆盖结果" MODIFIED="1683861928519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_2.coverage" NAME="vcm_main_mulTime_2 覆盖结果" MODIFIED="1681392012455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_DW_final.coverage" NAME="vcm_main_mulTime_DW_final 覆盖结果" MODIFIED="1719287067906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../以往实验/code(IDBN)(1)/code(IDBN)" />
+    <SUITE FILE_PATH="coverage/code_vcm_$ICA__1_.coverage" NAME="ICA (1) 覆盖结果" MODIFIED="1698825220432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$ica.coverage" NAME="ica—— 覆盖结果" MODIFIED="1698824916614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_final_.coverage" NAME="vcm_main_mulTime_final_单时间片 覆盖结果" MODIFIED="1721184901092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../以往实验/code(IDBN)(1)/code(IDBN)" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_change_distance_kpca__1_.coverage" NAME="vcm_change_distance_kpca (1) 覆盖结果" MODIFIED="1719198908809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$cnn.coverage" NAME="cnn 覆盖结果" MODIFIED="1680870005994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$resetnet__1_.coverage" NAME="resetnet (1) 覆盖结果" MODIFIED="1683289990124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$FAHP.coverage" NAME="FAHP 覆盖结果" MODIFIED="1681287890293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../车货匹配实验/代码/代码" />
+    <SUITE FILE_PATH="coverage/code_vcm_$idbn__1_.coverage" NAME="idbn (1) 覆盖结果" MODIFIED="1719292211710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/IDBN_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_pca_final.coverage" NAME="vcm_main_mulTime_pca_final 覆盖结果" MODIFIED="1684138618002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$traditional_resnet.coverage" NAME="traditional_resnet 覆盖结果" MODIFIED="1685933481239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$distance.coverage" NAME="distance 覆盖结果" MODIFIED="1705295482892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/VCM" />
+    <SUITE FILE_PATH="coverage/code_vcm_$KPCA_weight_.coverage" NAME="KPCA_weight  覆盖结果" MODIFIED="1719235405428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison_idbn_data/kpca-idbn-data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_2_pca_final.coverage" NAME="vcm_main_mulTime_2_pca_final 覆盖结果" MODIFIED="1681461687111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$resnet_change_data_main_final.coverage" NAME="resnet_change_data_main_final 覆盖结果" MODIFIED="1689061544507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$qunen.coverage" NAME="qunen 覆盖结果" MODIFIED="1718862830967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$c_degree.coverage" NAME="c_degree 覆盖结果" MODIFIED="1719236402536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/IDBN_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pca_last_main_2.coverage" NAME="pca_last_main_2 覆盖结果" MODIFIED="1698825560804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$kpca.coverage" NAME="kpca 覆盖结果" MODIFIED="1719291860470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/IDBN_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$sbr_BResNet.coverage" NAME="sbr_BResNet 覆盖结果" MODIFIED="1719048624081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN/kpca_3" />
+    <SUITE FILE_PATH="coverage/code_vcm_$brn_ahp.coverage" NAME="brn_ahp 覆盖结果" MODIFIED="1721703943551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/weight" />
+    <SUITE FILE_PATH="coverage/code_vcm_$changes_data_resnet_sintime__1_.coverage" NAME="changes_data_resnet_sintime (1) 覆盖结果" MODIFIED="1689067915350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$kpcapca.coverage" NAME="消融实验kpcapca随机 覆盖结果" MODIFIED="1718963145413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$PCA_BResNet.coverage" NAME="PCA_BResNet 覆盖结果" MODIFIED="1719231789482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN/kbr_1" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pca_main.coverage" NAME="pca_main 覆盖结果" MODIFIED="1681349509392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pythontwo.coverage" NAME="pythontwo 覆盖结果" MODIFIED="1684329538062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$test.coverage" NAME="test 覆盖结果" MODIFIED="1720425680298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../以往实验/code(IDBN)(1)/code(IDBN)" />
+    <SUITE FILE_PATH="coverage/code_vcm_$SVD_BResNet.coverage" NAME="SVD_BResNet 覆盖结果" MODIFIED="1719232739047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN/kbr_1" />
+    <SUITE FILE_PATH="coverage/code_vcm_$sbr_BResNet__1_.coverage" NAME="sbr_BResNet (1) 覆盖结果" MODIFIED="1719049312742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN/kpca_2" />
+    <SUITE FILE_PATH="coverage/code_vcm_$detail_destination.coverage" NAME="detail_destination 覆盖结果" MODIFIED="1685448905011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$resnet_change_data_final_main__1_.coverage" NAME="resnet_change_data_final_main (1) 覆盖结果" MODIFIED="1685933220708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$cnn_main.coverage" NAME="cnn_main 覆盖结果" MODIFIED="1681699745162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnn" />
+    <SUITE FILE_PATH="coverage/code_vcm_$writeData.coverage" NAME="writeData 覆盖结果" MODIFIED="1680232307470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../车货匹配实验/code(IDBN)(1)/code(IDBN)" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pca_2.coverage" NAME="pca_2 覆盖结果" MODIFIED="1709799281012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_2_pca_final__1_.coverage" NAME="vcm_main_mulTime_2_pca_final (1) 覆盖结果" MODIFIED="1681391196211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$KBR_BResNet.coverage" NAME="KBR_BResNet 覆盖结果" MODIFIED="1719236999083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/IDBN_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$brn_svd.coverage" NAME="brn_svd 覆盖结果" MODIFIED="1721704089092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/weight" />
+    <SUITE FILE_PATH="coverage/code_vcm_$picture.coverage" NAME="picture 覆盖结果" MODIFIED="1721636193306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$metrics.coverage" NAME="metrics 覆盖结果" MODIFIED="1681719481341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyTorch-BayesianCNN-master/PyTorch-BayesianCNN-master" />
+    <SUITE FILE_PATH="coverage/code_vcm_$kpca__1_.coverage" NAME="kpca (1) 覆盖结果" MODIFIED="1719279623739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison_idbn_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$AHP_BResNet.coverage" NAME="AHP_BResNet 覆盖结果" MODIFIED="1719232218722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN/kbr_1" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_random_weight.coverage" NAME="vcm_main_mulTime_random_weight 覆盖结果" MODIFIED="1681462906131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$main_bayesian.coverage" NAME="main_bayesian 覆盖结果" MODIFIED="1683537968861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyTorch-BayesianCNN-master/PyTorch-BayesianCNN-master" />
+    <SUITE FILE_PATH="coverage/code_vcm_$kpca_BResNet.coverage" NAME="kpca_BResNet 覆盖结果" MODIFIED="1719044026569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN/SBR_2" />
+    <SUITE FILE_PATH="coverage/code_vcm_$svd__1_.coverage" NAME="svd (1) 覆盖结果" MODIFIED="1698824413779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_main.coverage" NAME="vcm_main_mulTime_main 覆盖结果" MODIFIED="1710850810604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pca_main__1_.coverage" NAME="pca_main (1) 覆盖结果" MODIFIED="1680850897230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$BayesianAlexNet.coverage" NAME="BayesianAlexNet 覆盖结果" MODIFIED="1681701243887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyTorch-BayesianCNN-master/PyTorch-BayesianCNN-master/models/BayesianModels" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pca.coverage" NAME="pca 覆盖结果" MODIFIED="1710725829561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pca_final__1_.coverage" NAME="pca_final (1) 覆盖结果" MODIFIED="1681389139634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$_.coverage" NAME="多时间片 消融实验 覆盖结果" MODIFIED="1703403980798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$KPCA_main_final.coverage" NAME="KPCA_main_final 覆盖结果" MODIFIED="1710725815775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$kpca_pm.coverage" NAME="kpca_pm 覆盖结果" MODIFIED="1721703675154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/KPCA_BRN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_change_distance_idbn__2_.coverage" NAME="vcm_change_distance_idbn (2) 覆盖结果" MODIFIED="1719295388814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_dataset/kpca_final_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$bayesian_resetnet__1_.coverage" NAME="bayesian_resetnet (1) 覆盖结果" MODIFIED="1683424623769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$SVD.coverage" NAME="SVD 覆盖结果" MODIFIED="1698758732781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_sing.coverage" NAME="vcm_main_sing 覆盖结果" MODIFIED="1721268259132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../以往实验/code(IDBN)(1)/code(IDBN)" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_2_pca__1_.coverage" NAME="vcm_main_mulTime_2_pca (1) 覆盖结果" MODIFIED="1681390193615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$bayesian_resnet.coverage" NAME="bayesian_resnet 覆盖结果" MODIFIED="1683161525382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_pca.coverage" NAME="vcm_pca 覆盖结果" MODIFIED="1700806468933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$Coordinate_conversion.coverage" NAME="Coordinate conversion 覆盖结果" MODIFIED="1685362428462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_main_idbn__1_.coverage" NAME="vcm_main_mulTime_main_idbn (1) 覆盖结果" MODIFIED="1713147517276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$deng__3_.coverage" NAME="deng (3) 覆盖结果" MODIFIED="1719286665924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../以往实验/code(IDBN)(1)/code(IDBN)" />
+    <SUITE FILE_PATH="coverage/code_vcm_$train.coverage" NAME="train 覆盖结果" MODIFIED="1682410422606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resetnet" />
+    <SUITE FILE_PATH="coverage/code_vcm_$Information_entropy.coverage" NAME="Information entropy 覆盖结果" MODIFIED="1681463918397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_change_distance_random_weight.coverage" NAME="vcm_change_distance_random_weight 覆盖结果" MODIFIED="1700809033991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$main_bayesian__1_.coverage" NAME="main_bayesian (1) 覆盖结果" MODIFIED="1681889056457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$main_bayesianAlexnet.coverage" NAME="main_bayesianAlexnet 覆盖结果" MODIFIED="1682301491097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$PBR_BResNet.coverage" NAME="PBR_BResNet 覆盖结果" MODIFIED="1719122426982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN/pbr_0" />
+    <SUITE FILE_PATH="coverage/code_vcm_$BayesianLeNet.coverage" NAME="BayesianLeNet 覆盖结果" MODIFIED="1681701251844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyTorch-BayesianCNN-master/PyTorch-BayesianCNN-master/models/BayesianModels" />
+    <SUITE FILE_PATH="coverage/code_vcm_$svd.coverage" NAME="svd 覆盖结果" MODIFIED="1698981107847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$suiji_BResNet.coverage" NAME="suiji_BResNet 覆盖结果" MODIFIED="1718699365149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN/suiji" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_main_idbn_wangchu.coverage" NAME="vcm_main_mulTime_main_idbn_wangchu 覆盖结果" MODIFIED="1721613929476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$Rand_BResNet.coverage" NAME="Rand_BResNet 覆盖结果" MODIFIED="1719233805744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN/kbr_1" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_single_time.coverage" NAME="vcm_single_time 覆盖结果" MODIFIED="1721359891766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$cnn_basic.coverage" NAME="cnn_basic 覆盖结果" MODIFIED="1681475097237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnn" />
+    <SUITE FILE_PATH="coverage/code_vcm_$resetnet.coverage" NAME="resetnet 覆盖结果" MODIFIED="1682496836884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/resetnet" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pca_main_final.coverage" NAME="pca_main_final 覆盖结果" MODIFIED="1698824095516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$bnn.coverage" NAME="bnn 覆盖结果" MODIFIED="1719035875520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN/BCNN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$picture__1_.coverage" NAME="picture (1) 覆盖结果" MODIFIED="1720774347247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$KPCA.coverage" NAME="KPCA 覆盖结果" MODIFIED="1685326008354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pca_change.coverage" NAME="pca_change 覆盖结果" MODIFIED="1685326090002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pca_last_main_6.coverage" NAME="pca_last_main_6 覆盖结果" MODIFIED="1698744306763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$main_frequentist.coverage" NAME="main_frequentist 覆盖结果" MODIFIED="1681802727949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyTorch-BayesianCNN-master/PyTorch-BayesianCNN-master" />
+    <SUITE FILE_PATH="coverage/code_vcm_$bayesianAlexNet.coverage" NAME="bayesianAlexNet 覆盖结果" MODIFIED="1681736103171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$brn_pca.coverage" NAME="brn_pca 覆盖结果" MODIFIED="1721704023413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/weight" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pca__1_.coverage" NAME="pca (1) 覆盖结果" MODIFIED="1698824398736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$svd_2.coverage" NAME="svd_2 覆盖结果" MODIFIED="1719235704223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/KPCA_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$kpca_rm.coverage" NAME="kpca_rm 覆盖结果" MODIFIED="1721703580546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/KPCA_BRN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pbr_BResNet.coverage" NAME="pbr_BResNet 覆盖结果" MODIFIED="1719048135084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN/pbr_1" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_change_distance_svd.coverage" NAME="vcm_change_distance_svd 覆盖结果" MODIFIED="1719230098839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime.coverage" NAME="vcm_main_mulTime 覆盖结果" MODIFIED="1719290285200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../以往实验/code(IDBN)(1)/code(IDBN)" />
+    <SUITE FILE_PATH="coverage/code_vcm_$AHP_WEIGHT.coverage" NAME="AHP_WEIGHT 覆盖结果" MODIFIED="1717914083268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$rnn__1_.coverage" NAME="rnn (1) 覆盖结果" MODIFIED="1719035988802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN/BCNN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_final_idbn__1_.coverage" NAME="vcm_main_mulTime_final_idbn (1) 覆盖结果" MODIFIED="1721267315112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../以往实验/code(IDBN)(1)/code(IDBN)" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_DW.coverage" NAME="vcm_main_mulTime_DW 覆盖结果" MODIFIED="1713146568711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../以往实验/code(IDBN)(1)/code(IDBN)" />
+    <SUITE FILE_PATH="coverage/code_vcm_$new.coverage" NAME="new 覆盖结果" MODIFIED="1720356003306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$test_models.coverage" NAME="test_models 覆盖结果" MODIFIED="1681701441347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PyTorch-BayesianCNN-master/PyTorch-BayesianCNN-master/tests" />
+    <SUITE FILE_PATH="coverage/code_vcm_$changeOrder.coverage" NAME="changeOrder 覆盖结果" MODIFIED="1682133769673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../车货匹配实验/code(IDBN)(1)/code(IDBN)" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_final_deng__1_.coverage" NAME="vcm_main_mulTime_final_deng (1) 覆盖结果" MODIFIED="1719294619214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/IDBN_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$resnet_change_data_main_final_multinme__1_.coverage" NAME="resnet_change_data_main_final_multinme (1) 覆盖结果" MODIFIED="1694744541287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$PCA_git.coverage" NAME="PCA_git 覆盖结果" MODIFIED="1684329445886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_change_distance_idbn__1_.coverage" NAME="vcm_change_distance_idbn (1) 覆盖结果" MODIFIED="1720427951589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/KPCA_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$misc.coverage" NAME="misc 覆盖结果" MODIFIED="1680832664034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$final_bayesian_resnet.coverage" NAME="final_bayesian_resnet 覆盖结果" MODIFIED="1683549067942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$.coverage" NAME="消融实验图 覆盖结果" MODIFIED="1718963087709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$brn_SUIJI.coverage" NAME="brn_SUIJI 覆盖结果" MODIFIED="1719234020113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/weight_xiaorong" />
+    <SUITE FILE_PATH="coverage/code_vcm_$cnn_padding.coverage" NAME="cnn_padding 覆盖结果" MODIFIED="1680872423930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cnn" />
+    <SUITE FILE_PATH="coverage/code_vcm_$rePaper.coverage" NAME="rePaper 覆盖结果" MODIFIED="1721184457408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../以往实验/code(IDBN)(1)/code(IDBN)" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_final_kpca.coverage" NAME="vcm_main_mulTime_final_kpca 覆盖结果" MODIFIED="1721704862362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/IDBN_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$test__1_.coverage" NAME="test (1) 覆盖结果" MODIFIED="1680232158285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../车货匹配实验/code(IDBN)(1)/code(IDBN)" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_change_distance_pca.coverage" NAME="vcm_change_distance_pca 覆盖结果" MODIFIED="1695371934849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$Geographic_location_code.coverage" NAME="Geographic location code 覆盖结果" MODIFIED="1685368209603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_final_deng.coverage" NAME="vcm_main_mulTime_final_deng 覆盖结果" MODIFIED="1721705140203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/IDBN_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$resnet_change.coverage" NAME="resnet_change 覆盖结果" MODIFIED="1685932900648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$final_main_bayesianAlexnet.coverage" NAME="final_main_bayesianAlexnet 覆盖结果" MODIFIED="1685500167384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$rnn.coverage" NAME="rnn 覆盖结果" MODIFIED="1719035785068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pca_final.coverage" NAME="pca_final 覆盖结果" MODIFIED="1682133156751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$tt.coverage" NAME="tt 覆盖结果" MODIFIED="1721964650367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN/kbr_1" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pca_BResNet.coverage" NAME="pca_BResNet 覆盖结果" MODIFIED="1718699339805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN/pca" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_change_distance_kpca.coverage" NAME="vcm_change_distance_kpca 覆盖结果" MODIFIED="1719841295106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$deng__2_.coverage" NAME="deng (2) 覆盖结果" MODIFIED="1719287028197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../以往实验/code(IDBN)(1)/code(IDBN)/deng" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm.coverage" NAME="vcm 覆盖结果" MODIFIED="1720752475468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../以往实验/code(IDBN)(1)/code(IDBN)" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_change_distance_deng.coverage" NAME="vcm_change_distance_deng 覆盖结果" MODIFIED="1721704758014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/KPCA_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$LDA.coverage" NAME="LDA 覆盖结果" MODIFIED="1698721828489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$sbr_BResNet__2_.coverage" NAME="sbr_BResNet (2) 覆盖结果" MODIFIED="1719122954435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN/sbr_2" />
+    <SUITE FILE_PATH="coverage/code_vcm_$deng.coverage" NAME="deng 覆盖结果" MODIFIED="1719283239056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/comparison_idbn_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$AHP.coverage" NAME="AHP 覆盖结果" MODIFIED="1719235529424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$distance__1_.coverage" NAME="distance (1) 覆盖结果" MODIFIED="1681391014854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../车货匹配实验/code(IDBN)(1)/code(IDBN)" />
+    <SUITE FILE_PATH="coverage/code_vcm_$BCNN_final.coverage" NAME="BCNN_final 覆盖结果" MODIFIED="1682498211227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../车货匹配实验/代码/代码" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pca_last_main.coverage" NAME="pca_last_main 覆盖结果" MODIFIED="1685532622437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$kpca_tm.coverage" NAME="kpca_tm 覆盖结果" MODIFIED="1721703779029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/KPCA_BRN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_main_mulTime_final_idbn.coverage" NAME="vcm_main_mulTime_final_idbn 覆盖结果" MODIFIED="1721705050665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/IDBN_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$kbr_pbr_sbr.coverage" NAME="kbr_pbr_sbr 覆盖结果" MODIFIED="1722527608056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$pca_1.coverage" NAME="pca_1 覆盖结果" MODIFIED="1680830260446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$idbn.coverage" NAME="idbn 覆盖结果" MODIFIED="1719290501720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../以往实验/code(IDBN)(1)/code(IDBN)/new_dataset" />
+    <SUITE FILE_PATH="coverage/code_vcm_$WPCA.coverage" NAME="WPCA 覆盖结果" MODIFIED="1684329420931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_change_distance_deng__1_.coverage" NAME="vcm_change_distance_deng (1) 覆盖结果" MODIFIED="1719295916894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/KPCA_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$text.coverage" NAME="text 覆盖结果" MODIFIED="1685361534393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code_vcm_$vcm_change_distance_idbn.coverage" NAME="vcm_change_distance_idbn 覆盖结果" MODIFIED="1721704510190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/KPCA_data" />
+    <SUITE FILE_PATH="coverage/code_vcm_$kpca_brn.coverage" NAME="kpca_brn 覆盖结果" MODIFIED="1721704459588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA_FINAL_BRN/KPCA_BRN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$PCA_git__1_.coverage" NAME="PCA_git (1) 覆盖结果" MODIFIED="1681349108459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$KPCA_last_main_6.coverage" NAME="KPCA_last_main_6 覆盖结果" MODIFIED="1720354628294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KPCA" />
+    <SUITE FILE_PATH="coverage/code_vcm_$searchDicIndex.coverage" NAME="searchDicIndex 覆盖结果" MODIFIED="1680231814253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../车货匹配实验/code(IDBN)(1)/code(IDBN)" />
+    <SUITE FILE_PATH="coverage/code_vcm_$final_main_bayesianResnet.coverage" NAME="final_main_bayesianResnet 覆盖结果" MODIFIED="1685452549855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$changes_data_resnet.coverage" NAME="changes_data_resnet 覆盖结果" MODIFIED="1689063976475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RBCNN" />
+    <SUITE FILE_PATH="coverage/code_vcm_$bayesian_net.coverage" NAME="bayesian net 覆盖结果" MODIFIED="1682343377848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

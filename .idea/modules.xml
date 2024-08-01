@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../Image-Classification-ResNet-main/Image-Classification-ResNet-main/.idea/Image-Classification-ResNet-main.iml" filepath="$PROJECT_DIR$/../../../Image-Classification-ResNet-main/Image-Classification-ResNet-main/.idea/Image-Classification-ResNet-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../以往实验/code(IDBN)(1)/.idea/code(IDBN)(1).iml" filepath="$PROJECT_DIR$/../以往实验/code(IDBN)(1)/.idea/code(IDBN)(1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/code(vcm).iml" filepath="$PROJECT_DIR$/.idea/code(vcm).iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/VCM/.idea/pythonProject.iml" filepath="$USER_HOME$/PycharmProjects/VCM/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../车货匹配实验/code(IDBN)(1)/code(IDBN)/.idea/vcm.iml" filepath="$PROJECT_DIR$/../车货匹配实验/code(IDBN)(1)/code(IDBN)/.idea/vcm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../车货匹配实验/代码/代码/.idea/代码.iml" filepath="$PROJECT_DIR$/../车货匹配实验/代码/代码/.idea/代码.iml" />
+    </modules>
+  </component>
+</project>
